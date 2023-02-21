@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Hyrical HCF Changelog</title>
-</head>
 <body>
 <h1>Hyrical HCF Changelog</h1>
 <h2>Version X.Y.Z - Release Date</h2>
