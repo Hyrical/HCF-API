@@ -6,7 +6,7 @@
 <h2>Examples</h2>
 <p>We have provided various examples to demonstrate the usage of our API. These examples can be found in the <a href="/examples">examples</a> directory.</p>
 <h2>Support</h2>
-<p>If you require assistance with using the Hyrical HCF API or encounter any issues, please join our <a href="https://discord.gg/example">Discord server</a> and ask for help in the #hcf-support channel.</p>
+<p>If you require assistance with using the Hyrical HCF API or encounter any issues, please join our <a href="https://discord.gg/hyrical">Discord server</a> and ask for help in the #hcf-support channel.</p>
 <h2>Issues</h2>
 <p>If you encounter any issues with the Hyrical HCF API or have any feature requests, please create a new issue in our <a href="https://github.com/hyrical/HCF-API/issues">issue tracker</a>. Please make sure to provide as much detail as possible, including steps to reproduce the issue.</p>
 <h2>Roadmap</h2>
