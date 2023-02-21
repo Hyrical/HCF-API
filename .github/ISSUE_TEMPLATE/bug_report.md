@@ -1,50 +1,38 @@
-name: Bug Report
-description: Create a bug report!
-labels:
-  - Potential Bug
-  - bug
-body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
-        
-        Before continuing, please make sure there are no similar issues on [the issue tracker](https://github.com/Hyrical/HCF-API/issues). If there are, consider contributing your information there instead!
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: 'Also tell us what did you expect to happen? PLease provide some reproduction steps: What did you do to trigger this bug?'
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
-    validations:
-      required: true
-  - type: textarea
-    id: screenshots
-    attributes:
-      label: Screenshots
-      description: If applicable, add screenshots to help explain your issue.
-      placeholder: You can add images by clicking on the button in the bar that will appear one you click this textbox.
-    validations:
-      required: false
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: The stacktrace/error if any.
-      render: bash
-  - type: input
-    id: version
-    attributes:
-      label: Version
-      description: The version that you are currently using.
-      placeholder: Version-1.0
-    validations:
-      required: false
-  - type: textarea
-    id: additional-context
-    attributes:
-      label: Additional context
-      description: Add any other context about the problem here.
-    validations:
-      required: false
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
