@@ -3,8 +3,9 @@
 <p><strong>Please note that this project is private and paid for internal use by customers. However, the public API is available for use by other developers.</strong></p>
 <h2>Documentation</h2>
 <p>To get started with using the Hyrical HCF API, please refer to our <a href="https://hyrical.org/documentation">API documentation</a>.</p>
-<h2>Examples</h2>
+<h2>Downloads</h2>
 <p>You can find all the api downloads in the <a href="/downloads">downloads</a> directory.</p>
+<h2>Examples</h2>
 <p>We have provided various examples to demonstrate the usage of our API. These examples can be found in the <a href="/examples">examples</a> directory.</p>
 <h2>Support</h2>
 <p>If you require assistance with using the Hyrical HCF API or encounter any issues, please join our <a href="https://discord.gg/hyrical">Discord server</a> and ask for help in the #hcf-support channel.</p>
