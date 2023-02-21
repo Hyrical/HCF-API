@@ -1,6 +1,6 @@
 <h1>Hyrical HCF</h1>
 <p>Welcome to the official repository of Hyrical HCF - a 1.7-1.16 HCF core developed by the Hyrical development team. This repository contains the public API for our HCF core and also showcases various usages of the API.</p>
-<p><strong>Please note that this project is private and paid for internal use by the Hyrical development team. However, the public API is available for use by other developers.</strong></p>
+<p><strong>Please note that this project is private and paid for internal use by customers. However, the public API is available for use by other developers.</strong></p>
 <h2>Documentation</h2>
 <p>To get started with using the Hyrical HCF API, please refer to our <a href="https://hyrical.org/documentation">API documentation</a>.</p>
 <h2>Examples</h2>
