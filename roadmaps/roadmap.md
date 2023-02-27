@@ -13,6 +13,21 @@
 	<li>Examples demonstrating API usage</li>
 </ul>
 
+<h3>Checklist</h3>
+<ul>
+	<li>Events [KOTH, Citadel, ETC]</li>
+	<li>Abilities</li>
+	<li>Finish Team Commands</li>
+	<li>Finish/Rework Team Claiming</li>
+	<li>Fix tab [for nopox]</li>
+	<li>Finish LunarClientHandler.kt</li>
+	<li>Finish storing flatfile/mongo</li>
+	<li>General/Prevention Listeners [Ore, Team Prevention, etc]</li>
+	<li>Finish Chat</li>
+	<li>Fix Death Messages [for embry]</li>
+	<li>Fix Walls</li>
+</ul>
+
 <h3>Improvements</h3>
 <ul>
 	<li>Improved performance and stability</li>
