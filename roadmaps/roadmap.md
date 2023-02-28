@@ -19,7 +19,6 @@
 	<li>Abilities</li>
 	<li>Finish Team Commands</li>
 	<li>Finish/Rework Team Claiming</li>
-	<li>Fix tab [for nopox]</li>
 	<li>Finish LunarClientHandler.kt</li>
 	<li>Finish storing flatfile/mongo</li>
 	<li>General/Prevention Listeners [Ore, Team Prevention, etc]</li>
